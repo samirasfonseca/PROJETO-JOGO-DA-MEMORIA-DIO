@@ -4,7 +4,7 @@
 ## 🧠 Jogo da Memória Online
 Umjogo da memória online, desenvolvido para testar suas habilidades de memorização. Jogue sozinho, desafie amigos e tente bater o seu próprio recorde!
 
-![Descrição da imagem](src/jogodamemoria.png)
+![Descrição da imagem](./jogo%20da%20memoria/jogodamemoria.png)
 
 
 ## 🎮 Sobre o Projeto
